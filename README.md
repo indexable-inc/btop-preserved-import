@@ -1,5 +1,8 @@
 # ![btop++](Img/logo.png)
 
+> [!NOTE]
+> This repository is a frozen snapshot. Development continues in [indexable-inc/btop](https://github.com/indexable-inc/btop), a fork of [aristocratos/btop](https://github.com/aristocratos/btop). The patches here (sorting processes by disk IO, the working directory in the detailed view, and the macOS process tree fixes) live there as separate commits on top of upstream.
+
 <a href="https://repology.org/project/btop/versions">
     <img src="https://repology.org/badge/vertical-allrepos/btop.svg" alt="Packaging status" align="right">
 </a>
